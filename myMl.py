@@ -10,7 +10,7 @@ import joblib
 
 # function option 1
 
-def RunPredictionOp1(area,buildingType,location,floorCount,constructionType):
+def RunPredictionOp1(constructionType,buildingType,location,area,floorCount):
 
     #Load saved model
     model = tf.keras.models.load_model('LearnModel_1.h5')
@@ -22,19 +22,19 @@ def RunPredictionOp1(area,buildingType,location,floorCount,constructionType):
     # 1 - Steel Concrete
     # 2 - Wood
     # 3 - Wood Hybrid
-    constructionType = 2
+    #constructionType = 2
 
     # Input 2 - building type is 0 or 1
-    buildingType = 1
+    #buildingType = 1
 
     # Input 3 - location 0 - 5
-    location = 3
+    #location = 3
 
     # Input 4 - Total floor area 
-    area = 100
+    #area = 100.0
 
     # Input 5 - floorCount usually between 5 and 25
-    floorCount = 10
+    #floorCount = 10
 
     # Create 2d numpy array 
     inputData = np.array([[constructionType], [buildingType], [location], [area], [floorCount]])

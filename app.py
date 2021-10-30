@@ -8,38 +8,7 @@ import numpy as np
 import joblib
 import myMl
 
-"""
-#Load saved model
-model = tf.keras.models.load_model('LearnModel_1.h5')
-model.summary()
 
-pathInp = r"C:\Users\karimd\source\repos\AEC_Hackathon2021\query.txt"
-inputData = np.genfromtxt(pathInp)
-
-scalerY = joblib.load(r"C:\Users\karimd\source\repos\AEC_Hackathon2021\scalerY_1.pkl")
-scalerX = joblib.load(r"C:\Users\karimd\source\repos\AEC_Hackathon2021\scalerx_1.pkl")
-
-
-inputData_new = np.reshape(inputData, (1,5))
-print(inputData_new)
-
-
-x_scaled = scalerX.transform(inputData_new)
-
-prediction = model.predict(x_scaled)
-#reshape or normalize here 
-y_scaled = scalerY.inverse_transform(prediction)
-
-numPrediction = float(y_scaled[0][0])
-print(numPrediction)
-
-
-pathOut = r"C:\Users\karimd\source\repos\AEC_Hackathon2021\Output\prediction.txt"
-np.savetxt(pathOut, y_scaled)
-"""
-
-
-# this is where the hops app is
 
 # register hops app as middleware
 app = Flask(__name__)
@@ -51,22 +20,24 @@ hops = hs.Hops(app)
     description="Predicts the CO2 emission of chosen building type",
     #icon="learncarbon_logo_without_text.png",
     inputs=[
-        hs.HopsInteger("constructionType", "CT", "Choose construction point"),
-        hs.HopsBoolean("Run", "R", "Toggle to run prediction"),
-        hs.HopsBoolean("Run", "R", "Toggle to run prediction"),
-        hs.HopsBoolean("Run", "R", "Toggle to run prediction"),
-        hs.HopsBoolean("Run", "R", "Toggle to run prediction"),
-        #hs.HopsNumber("t", "t", "Parameter on Curve to evaluate"),
+        hs.HopsInteger("constructionType", "CT", "Input Choose construction type"),
+        hs.HopsInteger("buildingType", "BT", "Input Choose building type"),
+        hs.HopsInteger("location", "L", "Input Choose location of project"),
+        hs.HopsNumber("area", "A", "Input Total gross area of project"),
+        hs.HopsNumber("floorCount", "FC", "Input Floor Count")
     ],
     outputs=[
         hs.HopsNumber("Prediction", "P", "CO2 prediction")
     ]
 )
-def getPrediction(run):
-    if run:
-        return numPrediction
-    else:
-        return 0
+
+
+def getPrediction(constructionType,buildingType,location,area,floorCount):
+    # fetch Prediction data from myML
+    fetchedPrediction = myMl.RunPredictionOp1(constructionType,buildingType,location,area,floorCount)
+    print("fetched prediction data")
+    return fetchedPrediction
+
 
 if __name__ == "__main__":
     app.run()
