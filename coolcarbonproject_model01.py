@@ -18,8 +18,6 @@ df = pd.read_csv(r"C:\Users\ppou\source\repos\AEC_Hackathon2021\Data\Data-Set-Ma
 
 
 type_local = df['Building Type'].values
-#type = np.where(type == 'Commercial', 0, type)
-#type = np.where(type == 'Residential', 1, type)
 location = df['Location'].values
 area = df['Foot print (m2)'].values
 floors = df['Floor Count'].values
@@ -41,11 +39,11 @@ clearedDf = dframe.dropna()
 
 clearedDf = clearedDf.rename(columns={0 : 'Type', 1: 'Location', 2 : 'Area', 3 : 'Floors', 4 : 'Build_life', 5 : 'CO2', 6 : 'Building_Construction_Type'})
 
+clearedDf = clearedDf[clearedDf.Type != 'Generic']
+clearedDf = clearedDf[clearedDf.Type != 'Industrial']
+
 #Saving it to the csv file 
 #clearedDf.to_csv('clearedData.csv',index=False)
-
-clearedDf = clearedDf[clearedDf != 'Generic']
-clearedDf = clearedDf[clearedDf != 'Industrial']
 
 clearedDf.info()
 clearedDf.head()
@@ -135,7 +133,7 @@ data.drop(columns=['Type', 'Location', 'Area', 'Floors',  'Build_life', 'Area_B'
 print(data.info())
 print(data.head())
 #print(data.describe())
-data.to_csv("final_data", index=False)
+#data.to_csv("final_data.csv", index=False)
 
 """NOW WE FINALLY HAVE THE CLEAN DATASET"""
 
