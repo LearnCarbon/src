@@ -13,7 +13,7 @@ hops = hs.Hops(app)
     #icon="learncarbon_logo_without_text.png",
     inputs=[
         #hs.HopsBoolean("Run prediction", "RP", "Run the prediction"),
-        hs.HopsNumber("CO2", "WHAAAAAAAAAAAT", "Choose CO2 emission"),
+        hs.HopsNumber("CO2", "CO", "Choose CO2 emission"),
         hs.HopsInteger("Type_B", "BT", "Input building type"),
         hs.HopsInteger("Location_B", "L", "Input choose location pf building"),
         hs.HopsNumber("Area", "A", "Input total gross area"),
