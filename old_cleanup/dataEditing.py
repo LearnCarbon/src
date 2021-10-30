@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import csv
 
-df= pd.read_csv('C:\\Users\\ppou\\AEC_Hackathon\\CLF Embodied Carbon Benchmark Research 17.01.31.csv')
+df= pd.read_csv('C:\Users\\ppou\\source\\repos\\AEC_Hackathon2021\\Data\\CLF Embodied Carbon Benchmark Research 17.01.31.csv')
 
 #checking the number of empty rows in th csv file
 #print (df.isnull().sum())
@@ -77,6 +77,6 @@ for i in range(len(area)):
 dframe = pd.DataFrame(FData)  
 print(dframe)
 
-dframe.to_csv('fresh_data.csv', index=False)
+dframe.to_csv('testdata.csv', index=False)
 
 
