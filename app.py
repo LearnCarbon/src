@@ -6,8 +6,9 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import joblib
+import myMl
 
-
+"""
 #Load saved model
 model = tf.keras.models.load_model('LearnModel_1.h5')
 model.summary()
@@ -35,7 +36,7 @@ print(numPrediction)
 
 pathOut = r"C:\Users\karimd\source\repos\AEC_Hackathon2021\Output\prediction.txt"
 np.savetxt(pathOut, y_scaled)
-
+"""
 
 
 # this is where the hops app is
@@ -50,6 +51,10 @@ hops = hs.Hops(app)
     description="Predicts the CO2 emission of chosen building type",
     #icon="learncarbon_logo_without_text.png",
     inputs=[
+        hs.HopsInteger("constructionType", "CT", "Choose construction point"),
+        hs.HopsBoolean("Run", "R", "Toggle to run prediction"),
+        hs.HopsBoolean("Run", "R", "Toggle to run prediction"),
+        hs.HopsBoolean("Run", "R", "Toggle to run prediction"),
         hs.HopsBoolean("Run", "R", "Toggle to run prediction"),
         #hs.HopsNumber("t", "t", "Parameter on Curve to evaluate"),
     ],
