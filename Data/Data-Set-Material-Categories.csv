@@ -1,0 +1,729 @@
+Building Type,Location,Foot print (m2),GFA (m2),Floor Count,Life Time (Years),TCO2 (Total),TC02 (Normalized at 50 years),Building_Construction_Type,Wood %,Steel %,Concrete %,Wood EC %,Steel EC %,Concrete EC %
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,75,32.21,21.5,Wood,100,0,0,100,0,0
+Residential,North America,4646 to 9290,"50,001 to 100,000",1 to 6,75,42.47,28.3,Wood,100,0,0,100,0,0
+Commercial,North America,9291 to 18580,"100,001 to 200,000",15 to 25,75,49.88,33.3,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,75,51.45,34.3,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,75,75.26,50.2,Wood,100,0,0,100,0,0
+Residential,North America,18581 to 46451,"200,001 to 500,000",7 to 14,75,83.78,55.9,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,60,70,58.3,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,9291 to 18580,"100,001 to 200,000",7 to 14,75,88.54,59.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,75,98.78,65.9,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,80,66.7,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,82,68.3,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,84,70.0,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,84.58,70.5,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,87.4,72.8,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,89.11,74.3,Wood,100,0,0,100,0,0
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,75,118.51,79.0,Wood,100,0,0,100,0,0
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",1 to 6,60,100,83.3,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,106,88.3,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,90,90.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,109,90.8,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,110,91.7,Wood,100,0,0,100,0,0
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,92,92.0,Wood,100,0,0,100,0,0
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,93,93.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,114,95.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,115.24,96.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,119,99.2,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,119,99.2,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,100,100.0,Wood,100,0,0,100,0,0
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,50,100,100.0,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,122,101.7,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,102,102.0,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,124,103.3,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,75,156.25,104.2,Wood,100,0,0,100,0,0
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,106,106.0,Wood,100,0,0,100,0,0
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,60,130,108.3,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,109,109.0,Wood,100,0,0,100,0,0
+Commercial,North America,2324 to 4645,"25,001 to 50,000",More than 25,50,109,109.0,RC,95,5,0,0,15,85
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,133,110.8,Wood,100,0,0,100,0,0
+Residential,Asia-Pacific,Over 92903,Over 1 million,15 to 25,50,111,111.0,RC,95,5,0,0,15,85
+Generic,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,112,112.0,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,60,136.97,114.1,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,138,115.0,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",15 to 25,75,172.53,115.0,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,231.73,115.9,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,232.97,116.5,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,233.13,116.6,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,117,117.0,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,60,141.59,118.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,118,118.0,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,237.61,118.8,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,50,119,119.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,239.49,119.7,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,123,123.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,149,124.2,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,149,124.2,Wood,100,0,0,100,0,0
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,100,248.9,124.5,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,60,150.23,125.2,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,46452 to 92903,"500,001 to 1 million",15 to 25,50,126,126.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,253.19,126.6,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,253.55,126.8,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,127,127.0,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,128,128.0,Wood,100,0,0,100,0,0
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,154.01,128.3,Wood,100,0,0,100,0,0
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,129,129.0,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,258.18,129.1,RC,95,5,0,0,15,85
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,156,130.0,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,262,131.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,263.09,131.5,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,264.85,132.4,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,265.63,132.8,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,133,133.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,266.54,133.3,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,134,134.0,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,270.89,135.4,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,271.33,135.7,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,273.31,136.7,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,276.56,138.3,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,140,140.0,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,280.2,140.1,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,75,210.63,140.4,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,281.66,140.8,RC,95,5,0,0,15,85
+Commercial,Africa,4646 to 9290,"50,001 to 100,000",1 to 6,50,142,142.0,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,285.46,142.7,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,285.46,142.7,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,143,143.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,172,143.3,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,292.96,146.5,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,294.99,147.5,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,60,177,147.5,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,60,177,147.5,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,177.14,147.6,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,178,148.3,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,60,178.54,148.8,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,149,149.0,Wood,100,0,0,100,0,0
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,149,149.0,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,299.72,149.9,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,60,181.06,150.9,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,301.89,150.9,RC,95,5,0,0,15,85
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,182,151.7,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,304.65,152.3,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,183,152.5,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,183,152.5,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,153,153.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,306.63,153.3,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,307.52,153.8,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,50,154.34,154.3,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,60,185.27,154.4,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,309.22,154.6,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,155,155.0,Wood,100,0,0,100,0,0
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,60,186.24,155.2,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",7 to 14,40,125.47,156.8,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,157,157.0,Wood,100,0,0,100,0,0
+Residential,Europe,2324 to 4645,"25,001 to 50,000",7 to 14,100,314,157.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,191,159.2,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,191,159.2,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,191,159.2,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,192,160.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,40,129.03,161.3,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,195,162.5,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,195.71,163.1,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,198.67,165.6,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,60,199.29,166.1,Wood,100,0,0,100,0,0
+Residential,Europe,94 to 465,"1,001 to 5,000",1 to 6,60,200,166.7,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,167,167.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,201.33,167.8,Wood,100,0,0,100,0,0
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,168,168.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,168,168.0,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,336.76,168.4,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,100,336.85,168.4,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,202.31,168.6,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,337.92,169.0,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,338.83,169.4,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,339.07,169.5,RC,95,5,0,0,15,85
+Residential,Europe,94 to 465,"1,001 to 5,000",1 to 6,50,170,170.0,Wood,100,0,0,100,0,0
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,100,340.29,170.1,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,204.29,170.2,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,204.55,170.5,Wood,100,0,0,100,0,0
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,171,171.0,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",More than 25,50,171,171.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,172,172.0,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,173,173.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,210,175.0,Wood,100,0,0,100,0,0
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,176,176.0,Wood,100,0,0,100,0,0
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,176,176.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,176,176.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,212.31,176.9,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,353.89,176.9,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,177,177.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,177,177.0,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,354.42,177.2,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,355.95,178.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,178,178.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,Europe,93 or less,"1,000 or less",1 to 6,50,179.03,179.0,Wood,100,0,0,100,0,0
+Commercial,North America,94 to 465,"1,001 to 5,000",1 to 6,50,181,181.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,50,181.18,181.2,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,218.13,181.8,Wood,100,0,0,100,0,0
+Residential,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,184,184.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,60,222,185.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,222.5,185.4,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,50,185.89,185.9,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,372.07,186.0,RC,95,5,0,0,15,85
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,224.62,187.2,Wood,100,0,0,100,0,0
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,60,225,187.5,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,225.45,187.9,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,377.99,189.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,189,189.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,228.18,190.2,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,191,191.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,229.33,191.1,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,382.61,191.3,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,382.75,191.4,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,60,229.89,191.6,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,60,229.89,191.6,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,192,192.0,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,232,193.3,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,232,193.3,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,232.73,193.9,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,50,194,194.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,233,194.2,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,236.15,196.8,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,237,197.5,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,237,197.5,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,237,197.5,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,60,237,197.5,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,396.13,198.1,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,199,199.0,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,398.5,199.3,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,200,200.0,Wood,100,0,0,100,0,0
+Residential,Europe,94 to 465,"1,001 to 5,000",1 to 6,50,200,200.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,240,200.0,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,400.34,200.2,RC,95,5,0,0,15,85
+Residential,North America,18581 to 46451,"200,001 to 500,000",More than 25,50,201,201.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,405.79,202.9,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",1 to 6,50,203,203.0,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,203,203.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,245.63,204.7,Wood,100,0,0,100,0,0
+Residential,North America,18581 to 46451,"200,001 to 500,000",15 to 25,50,206,206.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",7 to 14,40,165.08,206.4,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,248.13,206.8,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",15 to 25,50,207,207.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,208,208.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,417.13,208.6,RC,95,5,0,0,15,85
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,250.91,209.1,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,211,211.0,Wood,100,0,0,100,0,0
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,211,211.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,253.53,211.3,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,422.81,211.4,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,213,213.0,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,426.01,213.0,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,426.01,213.0,RC,95,5,0,0,15,85
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,256,213.3,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,258,215.0,Wood,100,0,0,100,0,0
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,258.18,215.2,Wood,100,0,0,100,0,0
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,431.26,215.6,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,60,259.35,216.1,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,60,259.35,216.1,Wood,100,0,0,100,0,0
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,220,220.0,Wood,100,0,0,100,0,0
+Commercial,North America,9291 to 18580,"100,001 to 200,000",7 to 14,50,221,221.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,Asia-Pacific,9291 to 18580,"100,001 to 200,000",More than 25,100,443,221.5,RC,95,5,0,0,15,85
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,60,266.67,222.2,Wood,100,0,0,100,0,0
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,223,223.0,Wood,100,0,0,100,0,0
+Commercial,North America,Over 92903,Over 1 million,15 to 25,50,224,224.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,225,225.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",15 to 25,40,180.02,225.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,227,227.0,Wood,100,0,0,100,0,0
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,40,182.17,227.7,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,60,274.23,228.5,Wood,100,0,0,100,0,0
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,60,274.23,228.5,Wood,100,0,0,100,0,0
+Commercial,North America,46452 to 92903,"500,001 to 1 million",15 to 25,50,229,229.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,459.24,229.6,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,459.71,229.9,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,230,230.0,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,231,231.0,Wood,100,0,0,100,0,0
+Residential,Asia-Pacific,9291 to 18580,"100,001 to 200,000",More than 25,100,462,231.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,232,232.0,Wood,100,0,0,100,0,0
+Commercial,North America,46452 to 92903,"500,001 to 1 million",15 to 25,50,235,235.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,Asia-Pacific,9291 to 18580,"100,001 to 200,000",15 to 25,50,236,236.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,472.66,236.3,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,472.66,236.3,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,237,237.0,Wood,100,0,0,100,0,0
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,240,240.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,481.45,240.7,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,50,241,241.0,Wood,100,0,0,100,0,0
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,60,290,241.7,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,242,242.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,245,245.0,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,491.04,245.5,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,491.04,245.5,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,247,247.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,494.23,247.1,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,495.58,247.8,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,248,248.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,501.51,250.8,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,251,251.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,252,252.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,252,252.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,252,252.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,18581 to 46451,"200,001 to 500,000",More than 25,50,253,253.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,254,254.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,254,254.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,255,255.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,255,255.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,256,256.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,7 to 14,50,256,256.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,50,257,257.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,257,257.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,515.1,257.6,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,258,258.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,258,258.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",More than 25,50,258,258.0,RC,95,5,0,0,15,85
+Commercial,Europe,Over 92903,Over 1 million,More than 25,100,516.61,258.3,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",7 to 14,50,259,259.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,259,259.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,259.57,259.6,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,4646 to 9290,"50,001 to 100,000",7 to 14,50,260,260.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",More than 25,50,260,260.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",15 to 25,50,261,261.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,Europe,4646 to 9290,"50,001 to 100,000",7 to 14,50,261.34,261.3,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,262,262.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,264,264.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,40,212.04,265.1,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,530.19,265.1,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,40,212.57,265.7,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,266,266.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,266,266.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,60,320,266.7,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",7 to 14,40,215.95,269.9,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",1 to 6,40,217.14,271.4,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,272,272.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,273,273.0,Wood-Hybrid,67,0,33,62,0,38
+Residential,Europe,93 or less,"1,000 or less",1 to 6,50,273.15,273.2,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,274,274.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,276,276.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,277,277.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,40,225.27,281.6,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,283,283.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,285,285.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",7 to 14,50,285,285.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,570.78,285.4,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,100,570.78,285.4,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,50,286,286.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,286,286.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,286,286.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,289,289.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Africa,Over 92903,Over 1 million,More than 25,50,292,292.0,RC,95,5,0,0,15,85
+Residential,North America,4646 to 9290,"50,001 to 100,000",7 to 14,50,292,292.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,40,233.81,292.3,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,40,234.87,293.6,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,50,294,294.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",More than 25,50,294,294.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",7 to 14,50,300,300.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",1 to 6,40,242.18,302.7,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,46452 to 92903,"500,001 to 1 million",More than 25,40,242.93,303.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,304,304.0,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,40,244.25,305.3,Wood-Hybrid,67,0,33,62,0,38
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,245.4,306.8,Wood-Hybrid,67,0,33,62,0,38
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,40,246.64,308.3,Wood-Hybrid,67,0,33,62,0,38
+Residential,North America,18581 to 46451,"200,001 to 500,000",More than 25,50,309,309.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,309,309.0,RC,95,5,0,0,15,85
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",1 to 6,50,309,309.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",7 to 14,50,310,310.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,310,310.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,40,248.17,310.2,RC,95,5,0,0,15,85
+Residential,North America,18581 to 46451,"200,001 to 500,000",7 to 14,40,250.26,312.8,RC,95,5,0,0,15,85
+Commercial,Middle East,18581 to 46451,"200,001 to 500,000",1 to 6,50,313,313.0,RC,95,5,0,0,15,85
+Residential,Europe,2324 to 4645,"25,001 to 50,000",7 to 14,50,314,314.0,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,Over 92903,Over 1 million,More than 25,50,316,316.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,4646 to 9290,"50,001 to 100,000",15 to 25,50,317,317.0,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,317,317.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,7 to 14,40,254.88,318.6,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,4646 to 9290,"50,001 to 100,000",1 to 6,60,383.5,319.6,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",7 to 14,50,321,321.0,RC,95,5,0,0,15,85
+Residential,Europe,4646 to 9290,"50,001 to 100,000",7 to 14,50,321.79,321.8,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,322,322.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,323,323.0,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,Over 92903,Over 1 million,More than 25,50,328,328.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",More than 25,50,328,328.0,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,328,328.0,RC,95,5,0,0,15,85
+Commercial,Europe,4646 to 9290,"50,001 to 100,000",7 to 14,50,329,329.0,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,7 to 14,50,335,335.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",15 to 25,50,336,336.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,40,270.4,338.0,RC,95,5,0,0,15,85
+Commercial,Middle East,9291 to 18580,"100,001 to 200,000",1 to 6,50,340,340.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,40,272.6,340.8,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,341,341.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,341,341.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,60,410,341.7,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,4646 to 9290,"50,001 to 100,000",15 to 25,50,342,342.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,343,343.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,344,344.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,40,277.15,346.4,RC,95,5,0,0,15,85
+Commercial,Middle East,9291 to 18580,"100,001 to 200,000",7 to 14,40,277.61,347.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,60,420,350.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,352,352.0,RC,95,5,0,0,15,85
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,60,422.53,352.1,RC,95,5,0,0,15,85
+Commercial,Europe,46452 to 92903,"500,001 to 1 million",7 to 14,40,283.83,354.8,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,354.95,355.0,RC,95,5,0,0,15,85
+Residential,North America,46452 to 92903,"500,001 to 1 million",More than 25,50,355,355.0,Steel - Concrete,0,20,80,0,77,23
+Residential,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,40,284.02,355.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,50,356,356.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,356,356.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,60,430,358.3,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,359,359.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",1 to 6,40,287.36,359.2,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,7 to 14,50,361,361.0,RC,95,5,0,0,15,85
+Residential,Europe,94 to 465,"1,001 to 5,000",1 to 6,50,362.07,362.1,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,40,290,362.5,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,364,364.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",15 to 25,40,293.19,366.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,4646 to 9290,"50,001 to 100,000",7 to 14,60,441.15,367.6,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,466 to 929,"5,001 to 10,000",1 to 6,60,443.2,369.3,RC,95,5,0,0,15,85
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,60,444.87,370.7,RC,95,5,0,0,15,85
+Residential,North America,46452 to 92903,"500,001 to 1 million",More than 25,40,296.6,370.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,371,371.0,RC,95,5,0,0,15,85
+Residential,Europe,94 to 465,"1,001 to 5,000",7 to 14,60,448.6,373.8,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,374,374.0,RC,95,5,0,0,15,85
+Residential,North America,9291 to 18580,"100,001 to 200,000",7 to 14,40,299.21,374.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,40,300.12,375.2,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,377,377.0,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,More than 25,50,379,379.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,380,380.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,Over 92903,Over 1 million,1 to 6,50,381,381.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,381,381.0,RC,95,5,0,0,15,85
+Commercial,Middle East,46452 to 92903,"500,001 to 1 million",1 to 6,50,383,383.0,RC,95,5,0,0,15,85
+Residential,Europe,94 to 465,"1,001 to 5,000",1 to 6,50,385,385.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,40,308.32,385.4,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,40,308.43,385.5,RC,95,5,0,0,15,85
+Residential,Europe,46452 to 92903,"500,001 to 1 million",15 to 25,40,308.56,385.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,386,386.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,40,309.79,387.2,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",15 to 25,40,310.4,388.0,Steel - Concrete,0,20,80,0,77,23
+Residential,South America,18581 to 46451,"200,001 to 500,000",15 to 25,40,310.47,388.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,389,389.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,389,389.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,391,391.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,60,470,391.7,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,392,392.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",More than 25,40,313.63,392.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,Over 92903,Over 1 million,More than 25,40,314.44,393.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,314.93,393.7,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,75,591.78,394.5,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",More than 25,40,317.23,396.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,399,399.0,RC,95,5,0,0,15,85
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,50,399,399.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",1 to 6,40,320.76,401.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,50,401,401.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,401,401.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,402,402.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,402,402.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,405,405.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,406,406.0,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,2324 to 4645,"25,001 to 50,000",15 to 25,60,488.57,407.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Africa,18581 to 46451,"200,001 to 500,000",7 to 14,50,408,408.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,409,409.0,RC,95,5,0,0,15,85
+Residential,North America,18581 to 46451,"200,001 to 500,000",15 to 25,40,329.21,411.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",7 to 14,40,330.38,413.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,413,413.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,75,623.88,415.9,RC,95,5,0,0,15,85
+Commercial,Middle East,18581 to 46451,"200,001 to 500,000",1 to 6,50,416,416.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,333.82,417.3,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",More than 25,40,333.84,417.3,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",More than 25,40,334.13,417.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,336.78,421.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,421,421.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",7 to 14,50,422,422.0,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,337.64,422.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,2324 to 4645,"25,001 to 50,000",1 to 6,50,423,423.0,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,50,424,424.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,424,424.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,425,425.0,RC,95,5,0,0,15,85
+Residential,North America,18581 to 46451,"200,001 to 500,000",More than 25,40,341.67,427.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,46452 to 92903,"500,001 to 1 million",More than 25,50,428,428.0,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,Over 92903,Over 1 million,More than 25,40,343.97,430.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,40,344.24,430.3,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",1 to 6,40,344.79,431.0,RC,95,5,0,0,15,85
+Commercial,Europe,46452 to 92903,"500,001 to 1 million",More than 25,40,345.82,432.3,Steel - Concrete,0,20,80,0,77,23
+Commercial,Middle East,46452 to 92903,"500,001 to 1 million",More than 25,50,433,433.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,435,435.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",15 to 25,50,436,436.0,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,18581 to 46451,"200,001 to 500,000",15 to 25,40,349.02,436.3,Steel - Concrete,0,20,80,0,77,23
+Residential,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,50,437,437.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Middle East,46452 to 92903,"500,001 to 1 million",15 to 25,40,349.87,437.3,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,438,438.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,351.45,439.3,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,440,440.0,RC,95,5,0,0,15,85
+Residential,Europe,466 to 929,"5,001 to 10,000",1 to 6,40,353.39,441.7,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,50,442,442.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,60,530.53,442.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",15 to 25,40,354.58,443.2,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,444,444.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,445,445.0,RC,95,5,0,0,15,85
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,40,356.64,445.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,446,446.0,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,4646 to 9290,"50,001 to 100,000",7 to 14,60,536.4,447.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,40,359.4,449.3,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,450.51,450.5,RC,95,5,0,0,15,85
+Commercial,Middle East,18581 to 46451,"200,001 to 500,000",15 to 25,50,453,453.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,7 to 14,40,363.71,454.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,40,363.77,454.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,60,546.67,455.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,456,456.0,RC,95,5,0,0,15,85
+Residential,North America,18581 to 46451,"200,001 to 500,000",7 to 14,40,365.74,457.2,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,4646 to 9290,"50,001 to 100,000",7 to 14,60,549.15,457.6,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,459,459.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,40,367.47,459.3,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",15 to 25,40,367.59,459.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",1 to 6,60,552.4,460.3,RC,95,5,0,0,15,85
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,60,552.88,460.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,40,369.16,461.5,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,369.65,462.1,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,9291 to 18580,"100,001 to 200,000",More than 25,100,926,463.0,Steel - Concrete,0,20,80,0,77,23
+Residential,Europe,94 to 465,"1,001 to 5,000",7 to 14,60,556.6,463.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,40,371.22,464.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,371.39,464.2,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,40,373.32,466.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,40,374.09,467.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,376.55,470.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,40,376.77,471.0,RC,95,5,0,0,15,85
+Industrial,Europe,2324 to 4645,"25,001 to 50,000",1 to 6,60,565.61,471.3,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,18581 to 46451,"200,001 to 500,000",More than 25,40,377.97,472.5,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,46452 to 92903,"500,001 to 1 million",15 to 25,40,382.12,477.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,478,478.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,480,480.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,480,480.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,386.92,483.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",More than 25,40,387.9,484.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,485,485.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,487,487.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",15 to 25,40,391.98,490.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,46452 to 92903,"500,001 to 1 million",15 to 25,50,493.44,493.4,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,18581 to 46451,"200,001 to 500,000",More than 25,40,395.21,494.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,398.34,497.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,4646 to 9290,"50,001 to 100,000",1 to 6,40,400.14,500.2,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,4646 to 9290,"50,001 to 100,000",7 to 14,40,401.06,501.3,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,403.27,504.1,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,40,404.68,505.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,507,507.0,RC,95,5,0,0,15,85
+Commercial,Africa,46452 to 92903,"500,001 to 1 million",7 to 14,50,508,508.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,509,509.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,510,510.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,515,515.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,516,516.0,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,517.06,517.1,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,413.97,517.5,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,40,415.26,519.1,RC,95,5,0,0,15,85
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,40,415.61,519.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,Over 92903,Over 1 million,More than 25,40,416.63,520.8,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,416.98,521.2,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,522.18,522.2,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",15 to 25,40,418.31,522.9,Steel - Concrete,0,20,80,0,77,23
+Residential,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,50,528,528.0,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,2324 to 4645,"25,001 to 50,000",15 to 25,60,634.21,528.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,422.82,528.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,529,529.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,423.37,529.2,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",15 to 25,40,425.53,531.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,532,532.0,RC,95,5,0,0,15,85
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,60,638.53,532.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,60,638.54,532.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,533,533.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",15 to 25,50,533,533.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",1 to 6,60,640.75,534.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",7 to 14,50,535,535.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,430.91,538.6,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,18581 to 46451,"200,001 to 500,000",15 to 25,40,432.01,540.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,542,542.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,40,434.15,542.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Middle East,2324 to 4645,"25,001 to 50,000",1 to 6,50,544,544.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",7 to 14,40,435.64,544.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,40,436.12,545.2,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,9291 to 18580,"100,001 to 200,000",7 to 14,40,436.33,545.4,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,4646 to 9290,"50,001 to 100,000",7 to 14,60,657.15,547.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,439.41,549.3,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,549.49,549.5,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,439.96,550.0,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,9291 to 18580,"100,001 to 200,000",7 to 14,40,440.55,550.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,60,660.88,550.7,Steel - Concrete,0,20,80,0,77,23
+Residential,Europe,94 to 465,"1,001 to 5,000",7 to 14,60,664.6,553.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,40,446.21,557.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,50,561,561.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,Over 92903,Over 1 million,15 to 25,50,562,562.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,40,451.28,564.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,2324 to 4645,"25,001 to 50,000",1 to 6,40,453.53,566.9,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,More than 25,40,455.78,569.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Middle East,9291 to 18580,"100,001 to 200,000",1 to 6,50,570,570.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",15 to 25,40,457.53,571.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,576,576.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,577,577.0,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,50,578.24,578.2,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,462.89,578.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,46452 to 92903,"500,001 to 1 million",15 to 25,40,464.32,580.4,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",More than 25,40,464.89,581.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,465.02,581.3,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,Over 92903,Over 1 million,More than 25,40,465.66,582.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,583,583.0,RC,95,5,0,0,15,85
+Commercial,Europe,4646 to 9290,"50,001 to 100,000",1 to 6,60,700,583.3,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,930 to 2323,"10,001 to 25,000",7 to 14,40,466.84,583.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,4646 to 9290,"50,001 to 100,000",1 to 6,40,467.69,584.6,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",More than 25,40,469.77,587.2,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,46452 to 92903,"500,001 to 1 million",More than 25,40,470.11,587.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,7 to 14,40,471.3,589.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,7 to 14,40,472.28,590.4,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,46452 to 92903,"500,001 to 1 million",7 to 14,40,473.26,591.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,473.32,591.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,40,473.77,592.2,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,594,594.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,594,594.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Middle East,46452 to 92903,"500,001 to 1 million",More than 25,50,597,597.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,598,598.0,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,478.97,598.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,601,601.0,RC,95,5,0,0,15,85
+Commercial,Africa,2324 to 4645,"25,001 to 50,000",1 to 6,100,1209.71,604.9,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",More than 25,40,485.79,607.2,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,485.95,607.4,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,610,610.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,Over 92903,Over 1 million,15 to 25,40,490.11,612.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,490.19,612.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,491.74,614.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,7 to 14,40,491.75,614.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",7 to 14,40,492.23,615.3,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,617,617.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,493.88,617.4,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,621,621.0,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,More than 25,60,747.72,623.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",1 to 6,40,501.89,627.4,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,50,629.47,629.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",15 to 25,40,503.81,629.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,46452 to 92903,"500,001 to 1 million",More than 25,40,505.26,631.6,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,Over 92903,Over 1 million,More than 25,50,639,639.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,40,511.39,639.2,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,18581 to 46451,"200,001 to 500,000",15 to 25,40,511.46,639.3,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,2324 to 4645,"25,001 to 50,000",1 to 6,50,643,643.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,514.75,643.4,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,644,644.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,645,645.0,RC,95,5,0,0,15,85
+Commercial,Europe,46452 to 92903,"500,001 to 1 million",More than 25,40,517.12,646.4,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,40,517.89,647.4,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,648,648.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,651,651.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,521.6,652.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,652,652.0,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,1 to 6,40,522.68,653.4,RC,95,5,0,0,15,85
+Residential,North America,18581 to 46451,"200,001 to 500,000",More than 25,50,655,655.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,525.5,656.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,94 to 465,"1,001 to 5,000",1 to 6,50,661,661.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,661,661.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",15 to 25,40,529.3,661.6,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,662,662.0,RC,95,5,0,0,15,85
+Commercial,Europe,4646 to 9290,"50,001 to 100,000",1 to 6,30,398.45,664.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,665,665.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,533.58,667.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,533.9,667.4,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,4646 to 9290,"50,001 to 100,000",More than 25,40,542.2,677.8,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,46452 to 92903,"500,001 to 1 million",More than 25,40,553.79,692.2,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,2324 to 4645,"25,001 to 50,000",1 to 6,40,556.13,695.2,RC,95,5,0,0,15,85
+Commercial,Europe,4646 to 9290,"50,001 to 100,000",More than 25,50,701,701.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",More than 25,40,561.49,701.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",7 to 14,40,563.73,704.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",1 to 6,40,572.07,715.1,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,15 to 25,40,574.36,718.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,9291 to 18580,"100,001 to 200,000",7 to 14,40,575.17,719.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,40,578.9,723.6,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,4646 to 9290,"50,001 to 100,000",1 to 6,40,579.16,724.0,RC,95,5,0,0,15,85
+Residential,North America,46452 to 92903,"500,001 to 1 million",More than 25,40,581.32,726.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",1 to 6,40,582.83,728.5,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",More than 25,40,583.2,729.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,590.35,737.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,742,742.0,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,More than 25,40,595.91,744.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,746,746.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,60,905,754.2,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,603.72,754.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,46452 to 92903,"500,001 to 1 million",More than 25,50,762.25,762.3,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,466 to 929,"5,001 to 10,000",7 to 14,50,768,768.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",7 to 14,40,619.74,774.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,620.59,775.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,782,782.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,790,790.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,791,791.0,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,795,795.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,636.62,795.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,802,802.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,802,802.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,802,802.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",7 to 14,50,803.15,803.2,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",15 to 25,40,643.89,804.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,Europe,Over 92903,Over 1 million,More than 25,40,645.19,806.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,820,820.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,4646 to 9290,"50,001 to 100,000",7 to 14,40,673.25,841.6,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,18581 to 46451,"200,001 to 500,000",15 to 25,40,674.22,842.8,Steel - Concrete,0,20,80,0,77,23
+Residential,Asia-Pacific,18581 to 46451,"200,001 to 500,000",More than 25,40,682.25,852.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,4646 to 9290,"50,001 to 100,000",1 to 6,40,685.14,856.4,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,More than 25,40,687.05,858.8,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,863,863.0,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,2324 to 4645,"25,001 to 50,000",7 to 14,50,864.06,864.1,Steel - Concrete,0,20,80,0,77,23
+Commercial,Middle East,18581 to 46451,"200,001 to 500,000",More than 25,50,870,870.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,871,871.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,873,873.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,876,876.0,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,18581 to 46451,"200,001 to 500,000",1 to 6,40,704.78,881.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,40,717.52,896.9,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,9291 to 18580,"100,001 to 200,000",1 to 6,40,722.29,902.9,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,Over 92903,Over 1 million,1 to 6,40,724.64,905.8,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,910,910.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,910,910.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,40,730.52,913.2,RC,95,5,0,0,15,85
+Residential,Asia-Pacific,18581 to 46451,"200,001 to 500,000",More than 25,40,731.63,914.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,Over 92903,Over 1 million,15 to 25,40,733.88,917.4,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",1 to 6,40,740.7,925.9,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,927,927.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",7 to 14,50,935,935.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,More than 25,40,748.03,935.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,950,950.0,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,40,772.05,965.1,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,4646 to 9290,"50,001 to 100,000",7 to 14,50,974,974.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,979,979.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,20,397.33,993.3,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,995,995.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,1001,1001.0,RC,95,5,0,0,15,85
+Commercial,Europe,18581 to 46451,"200,001 to 500,000",7 to 14,40,801,1001.3,Steel - Concrete,0,20,80,0,77,23
+Residential,North America,94 to 465,"1,001 to 5,000",1 to 6,50,1004,1004.0,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,1009,1009.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,40,844.49,1055.6,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,More than 25,50,1060,1060.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,930 to 2323,"10,001 to 25,000",1 to 6,50,1065,1065.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,1082,1082.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,40,882.65,1103.3,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",15 to 25,50,1108,1108.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,40,917.93,1147.4,RC,95,5,0,0,15,85
+Commercial,Asia-Pacific,46452 to 92903,"500,001 to 1 million",1 to 6,40,923.3,1154.1,RC,95,5,0,0,15,85
+Commercial,North America,Over 92903,Over 1 million,More than 25,50,1167,1167.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,Asia-Pacific,Over 92903,Over 1 million,15 to 25,40,937.59,1172.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,40,938.69,1173.4,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",7 to 14,50,1186,1186.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,1187,1187.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,1194,1194.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,1207,1207.0,RC,95,5,0,0,15,85
+Commercial,Middle East,4646 to 9290,"50,001 to 100,000",1 to 6,50,1247,1247.0,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,1261,1261.0,RC,95,5,0,0,15,85
+Commercial,Europe,46452 to 92903,"500,001 to 1 million",More than 25,40,1031.76,1289.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,1294,1294.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,1314,1314.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,1386,1386.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,1417,1417.0,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,More than 25,20,579.01,1447.5,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,1455,1455.0,RC,95,5,0,0,15,85
+Residential,Europe,94 to 465,"1,001 to 5,000",1 to 6,50,1465,1465.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",1 to 6,50,1474,1474.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,1479,1479.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,1604,1604.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,1604,1604.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,1604,1604.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",1 to 6,50,1629,1629.0,RC,95,5,0,0,15,85
+Commercial,North America,46452 to 92903,"500,001 to 1 million",7 to 14,40,1332.55,1665.7,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,1707,1707.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,1765,1765.0,RC,95,5,0,0,15,85
+Commercial,North America,2324 to 4645,"25,001 to 50,000",1 to 6,50,1803,1803.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,1824,1824.0,RC,95,5,0,0,15,85
+Commercial,North America,18581 to 46451,"200,001 to 500,000",1 to 6,50,1829,1829.0,RC,95,5,0,0,15,85
+Commercial,North America,9291 to 18580,"100,001 to 200,000",7 to 14,50,1874,1874.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,1929,1929.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,2066,2066.0,RC,95,5,0,0,15,85
+Commercial,North America,4646 to 9290,"50,001 to 100,000",1 to 6,50,2156,2156.0,RC,95,5,0,0,15,85
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,2156,2156.0,RC,95,5,0,0,15,85
+Commercial,Middle East,Over 92903,Over 1 million,More than 25,50,2661,2661.0,Steel - Concrete,0,20,80,0,77,23
+Commercial,North America,930 to 2323,"10,001 to 25,000",1 to 6,50,2728,2728.0,RC,95,5,0,0,15,85
+Commercial,North America,466 to 929,"5,001 to 10,000",1 to 6,50,2745,2745.0,RC,95,5,0,0,15,85
+Commercial,Middle East,46452 to 92903,"500,001 to 1 million",More than 25,40,2521.63,3152.0,Steel - Concrete,0,20,80,0,77,23
