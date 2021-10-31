@@ -8,7 +8,6 @@ LearnCarbon is a Rhino plugin that integrates two machine learning models:
 * **Model A**: inputs a conceptual massing model by just a click and gathers data on the area, total built-up, structure type and predicts the Global Warming Potential
 * **Model B**: inputs area, total built-up, target GWP value and predicts the suitable structure.
 
-
 ## Prerequisites
 Also check requirements.txt file in the src repository.
 * **pandas**: required to read the library.
@@ -22,9 +21,11 @@ Also check requirements.txt file in the src repository.
 * **flask**: A Python module that lets you develop web applications easily.
 * **Altair**: A declarative statistical visualization library for Python.
 
+# Proccedure
 
-## Proccedure
-# Step 01 : Cleaning and Augmenting the dataset
+![Flow Chart](https://github.com/LearnCarbon/src/blob/main/examples/LearnCarbon.drawio.png)
+
+## Step 01 : Cleaning and Augmenting the dataset
 * CLF: Embodied Carbon Benchmark study is the initial dataset used in LearnCarbon
 * Synthetic data: Data transformation (categorical to numerical) and data augmentation (add structure categorization depending on the CO2 emission, and building size.
 
@@ -36,3 +37,5 @@ Also check requirements.txt file in the src repository.
 * Hops gets parameters from the 3D model designed in Rhino , and the users inputs.
 * Hops is passing these values to the MLmodel and calling the MLmodel itself using flask servers
 * After the prediction is calculated Hops returns the value to LearnCarbon.
+
+![Hops functionality](https://github.com/LearnCarbon/src/blob/main/examples/HopsBackend_cropped.png)
