@@ -34,6 +34,9 @@ Also check requirements.txt file in the src repository.
 * Validating the model: Plot learning curve
 
 ## Step 03 : Link MLmodel through Grasshopper
+
+![Data flow](https://github.com/LearnCarbon/src/blob/main/examples/dataFlow%20diagram.png)
+
 * Hops gets parameters from the 3D model designed in Rhino , and the users inputs.
 * Hops is passing these values to the MLmodel and calling the MLmodel itself using flask servers
 * After the prediction is calculated Hops returns the value to LearnCarbon.
