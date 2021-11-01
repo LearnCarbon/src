@@ -44,4 +44,4 @@ Also check requirements.txt file in the src repository.
 ![Hops functionality](https://github.com/LearnCarbon/src/blob/main/examples/HopsBackend_cropped.png)
 
 ## Set-up
-You would need a working Rhino 7 liscence and an IDE like Visual Studio where you can run the app.py file in src.
+You would need a working Rhino 7 license and an IDE like Visual Studio where you can run the app.py file in src.
