@@ -13,7 +13,7 @@ import joblib
 def RunPredictionOp1(constructionType,buildingType,location,area,floorCount):
 
     #Load saved model
-    model = tf.keras.models.load_model('LearnModel_1.h5')
+    model = tf.keras.models.load_model('log\LearnModel_A.h5')
     model.summary()
 
     # Input 1 - Building Concstruction Type
@@ -41,8 +41,8 @@ def RunPredictionOp1(constructionType,buildingType,location,area,floorCount):
     #pathInp = r"C:\Users\karimd\source\repos\AEC_Hackathon2021\query.txt"
     #inputData = np.genfromtxt(pathInp)
 
-    scalerY = joblib.load(r"C:\Users\karimd\source\repos\AEC_Hackathon2021\scalerY_1.pkl")
-    scalerX = joblib.load(r"C:\Users\karimd\source\repos\AEC_Hackathon2021\scalerx_1.pkl")
+    scalerY = joblib.load(r"log\scalerY_A.pkl")
+    scalerX = joblib.load(r"log\scalerx_A.pkl")
 
     # reshaping model 
     inputData_new = np.reshape(inputData, (1,5))
@@ -56,7 +56,7 @@ def RunPredictionOp1(constructionType,buildingType,location,area,floorCount):
     numPrediction = float(y_scaled[0][0])
     #print(numPrediction)
 
-    #pathOut = r"C:\Users\karimd\source\repos\AEC_Hackathon2021\Output\prediction.txt"
+    #pathOut = r"Output\prediction.txt"
     #np.savetxt(pathOut, y_scaled)
 
     return numPrediction
@@ -68,7 +68,7 @@ def RunPredictionOp1(constructionType,buildingType,location,area,floorCount):
 def RunPredictionOp2(CO2,Type_B,Location_B,Area,Floors):
 
     #Load saved model
-    model = tf.keras.models.load_model('LearnModel_2.h5')
+    model = tf.keras.models.load_model('log\LearnModel_B.h5')
     model.summary()
     
     # Input 1 - CO2 Emissions Numeical input
@@ -89,11 +89,11 @@ def RunPredictionOp2(CO2,Type_B,Location_B,Area,Floors):
     # Create 2d numpy array 
     inputData = np.array([[CO2], [Type_B], [Location_B], [Area], [Floors]])
 
-    #pathInp = r"C:\Users\karimd\source\repos\AEC_Hackathon2021\query.txt"
+    #pathInp = r"query.txt"
     #inputData = np.genfromtxt(pathInp)
 
     #CHANGE THE FILE LOCATION!!
-    scalerB = joblib.load(r"C:\Users\karimd\source\repos\AEC_Hackathon2021\scalerx_B.pkl")
+    scalerB = joblib.load(r"log\scalerx_B.pkl")
 
     # reshaping model 
     inputData_new = np.reshape(inputData, (1,5))
