@@ -29,17 +29,17 @@ Also check requirements.txt file in the src repository.
 * CLF: Embodied Carbon Benchmark study is the initial dataset used in LearnCarbon
 * Synthetic data: Data transformation (categorical to numerical) and data augmentation (add structure categorization depending on the CO2 emission, and building size.
 
-### Step 02 : Training the MLmodel
+### Step 02 : Training the ML model
 * Model: Training on google collab with Tensorflow and Keras
 * Validating the model: Plot learning curve
 
-### Step 03 : Link MLmodel through Grasshopper
+### Step 03 : Link ML model through Grasshopper
 
 ![Data flow](https://github.com/LearnCarbon/src/blob/main/examples/dataFlow%20diagram.png)
 
 * Hops gets parameters from the 3D model designed in Rhino , and the users inputs.
-* Hops is passing these values to the MLmodel and calling the MLmodel itself using flask servers
-* After the prediction is calculated Hops returns the value to LearnCarbon.
+* Hops is passing these values to the ML model and calling the ML model itself using a flask server
+* After the prediction is calculated Hops returns the value to a Rhino .rhp plugin written in c# and WPF, which displays the result in LearnCarbon.
 
 ![Hops functionality](https://github.com/LearnCarbon/src/blob/main/examples/HopsBackend_cropped.png)
 
