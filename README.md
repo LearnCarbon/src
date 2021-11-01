@@ -21,19 +21,19 @@ Also check requirements.txt file in the src repository.
 * **flask**: A Python module that lets you develop web applications easily.
 * **Altair**: A declarative statistical visualization library for Python.
 
-# Proccedure
+## Procedure
 
 ![Flow Chart](https://github.com/LearnCarbon/src/blob/main/examples/LearnCarbon.drawio.png)
 
-## Step 01 : Cleaning and Augmenting the dataset
+### Step 01 : Cleaning and Augmenting the dataset
 * CLF: Embodied Carbon Benchmark study is the initial dataset used in LearnCarbon
 * Synthetic data: Data transformation (categorical to numerical) and data augmentation (add structure categorization depending on the CO2 emission, and building size.
 
-## Step 02 : Training the MLmodel
+### Step 02 : Training the MLmodel
 * Model: Training on google collab with Tensorflow and Keras
 * Validating the model: Plot learning curve
 
-## Step 03 : Link MLmodel through Grasshopper
+### Step 03 : Link MLmodel through Grasshopper
 
 ![Data flow](https://github.com/LearnCarbon/src/blob/main/examples/dataFlow%20diagram.png)
 
@@ -42,3 +42,6 @@ Also check requirements.txt file in the src repository.
 * After the prediction is calculated Hops returns the value to LearnCarbon.
 
 ![Hops functionality](https://github.com/LearnCarbon/src/blob/main/examples/HopsBackend_cropped.png)
+
+## Set-up
+You would need a working Rhino 7 liscence and an IDE like Visual Studio where you can run the app.py file in src.
