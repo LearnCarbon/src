@@ -81,6 +81,6 @@ plt.xlabel('Prediction Error')
 _ = plt.ylabel('Count')
 
 # Save model and scalers
-model.save("/content/gdrive/MyDrive/temporary/LearnModel.h5")
+model.save("/log/Model_A/LearnModel.h5")
 joblib.dump(scalerY, '/log/Model_A/scalerY.pkl')
 joblib.dump(scalerX, '/log/Model_A/scalerx.pkl')
