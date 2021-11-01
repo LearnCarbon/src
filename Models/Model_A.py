@@ -19,7 +19,7 @@ pairplot = sns.pairplot(data_numerical)
 
 # Check the correlations between features
 heatmap = sns.heatmap(data.corr())
-heatmap.figure.savefig("/content/temporary/Data_correlations.png")
+heatmap.figure.savefig("Data_correlations.png")
 
 # Declare features
 X = data.iloc[:,data.columns != 'CO2']
@@ -81,6 +81,6 @@ plt.xlabel('Prediction Error')
 _ = plt.ylabel('Count')
 
 # Save model and scalers
-model.save("/log/Model_A/LearnModel.h5")
-joblib.dump(scalerY, '/log/Model_A/scalerY.pkl')
-joblib.dump(scalerX, '/log/Model_A/scalerx.pkl')
+model.save("log\LearnModel_A.h5")
+joblib.dump(scalerY, '\log/scalerY_A.pkl')
+joblib.dump(scalerX, '\log/scalerx_A.pkl')
