@@ -11,13 +11,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 from mlxtend.plotting import plot_confusion_matrix
 
-pd.set_option('display.float_format', lambda x: '%.3f' % x) # turn off scientific notation and too much decimal blah
 data = pd.read_csv(r"Data/final_data")
+path_to_save = "log/"
 
 # Check the data
 data.head()
 
-input = data.drop(['Building_Construction_Type'], axis=1)
 # Set input-output
 X = data.iloc[:,:]
 X = X.drop(['Building_Construction_Type'], axis=1)
@@ -71,4 +70,5 @@ confmatrix = confusion_matrix(y_test.argmax(axis=1),y_pred.argmax(axis=1))
 plot_confusion_matrix(confmatrix,colorbar=True,show_absolute=True,show_normed=True,hide_spines = True)
 
 # SAVE THE MODEL and scaler
-model.save("/content/gdrive/MyDrive/temporary/LearnModel_2.h5")
+model.save("log/LearnModel_B.h5")
+joblib.dump(scalerX, path_to_save + 'scalerX_B.pkl')
