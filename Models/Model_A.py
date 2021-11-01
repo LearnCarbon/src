@@ -9,6 +9,8 @@ import seaborn as sns
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import StandardScaler
 
+path_to_save = "log/"
+
 # Load clean data
 data = pd.read_csv(r"Data/final_data.csv")
 # The two types of data we have
@@ -81,6 +83,6 @@ plt.xlabel('Prediction Error')
 _ = plt.ylabel('Count')
 
 # Save model and scalers
-model.save("log\LearnModel_A.h5")
-joblib.dump(scalerY, '\log/scalerY_A.pkl')
-joblib.dump(scalerX, '\log/scalerx_A.pkl')
+model.save(path_to_save + "LearnModel_A.h5")
+joblib.dump(scalerY, path_to_save + 'scalerY_A.pkl')
+joblib.dump(scalerX, path_to_save + 'scalerx_A.pkl')
