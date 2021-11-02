@@ -32,12 +32,7 @@ X_scaled = scalerX.fit_transform(X)
 # Target output
 y = data.loc[:,"CO2"].to_numpy()
 y = y.reshape(-1, 1)
-# try to scale y, it was better but you need to transform it to np array and reshape it
 scalerY = MinMaxScaler()
-
-
-#In this case it makes sense to use MinMax scaling because the wage seems like a relative range
-# Apply the scaler to our Y-features
 y_scaled = scalerY.fit_transform(y)
 
 print(y.shape)
