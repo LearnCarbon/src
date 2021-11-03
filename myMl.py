@@ -41,8 +41,8 @@ def RunPredictionOp1(constructionType,buildingType,location,area,floorCount):
     #pathInp = r"C:\Users\karimd\source\repos\AEC_Hackathon2021\query.txt"
     #inputData = np.genfromtxt(pathInp)
 
-    scalerY = joblib.load(r"log\scalerY_A.pkl")
-    scalerX = joblib.load(r"log\scalerx_A.pkl")
+    scalerY = joblib.load('log\scalerY_A.pkl')
+    scalerX = joblib.load('log\scalerx_A.pkl')
 
     # reshaping model 
     inputData_new = np.reshape(inputData, (1,5))
@@ -93,7 +93,7 @@ def RunPredictionOp2(CO2,Type_B,Location_B,Area,Floors):
     #inputData = np.genfromtxt(pathInp)
 
     #CHANGE THE FILE LOCATION!!
-    scalerB = joblib.load(r"log\scalerx_B.pkl")
+    scalerB = joblib.load('log\scalerx_B.pkl')
 
     # reshaping model 
     inputData_new = np.reshape(inputData, (1,5))
