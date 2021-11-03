@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Read dataset csv with the material column
-df = pd.read_csv(r"C:\Users\ppou\src\Data\Data-Set-Material-Categories.csv")
+df = pd.read_csv(r"Data\Data-Set-Material-Categories.csv")
 #print(df)
 
 # Function to convert binary columns based on their carbon emission
