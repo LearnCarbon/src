@@ -4,6 +4,8 @@ Empower the architects for  analysing the relationship between structure & embod
 Looking at all the new construction that is projected to take place between now and 2040, we see the critical role embodied carbon plays.
 The opportunity to change the embodied material decreases as the project progresses, since each change has a direct impact on the project cost.
 
+Visit https://learncarbon.me/ to learn more details on the project.
+
 LearnCarbon is a Rhino plugin that integrates two machine learning models:
 * **Model A**: inputs a conceptual massing model by just a click and gathers data on the area, total built-up, structure type and predicts the Global Warming Potential
 * **Model B**: inputs area, total built-up, target GWP value and predicts the suitable structure.
