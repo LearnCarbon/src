@@ -1,4 +1,4 @@
-# LearnCarbon
+[# LearnCarbon
 Empower the architects for  analysing the relationship between structure & embodied carbon in early design stages!
 
 Looking at all the new construction that is projected to take place between now and 2040, we see the critical role embodied carbon plays.
@@ -35,15 +35,32 @@ Also check requirements.txt file in the src repository.
 * Model: Training on google collab with Tensorflow and Keras
 * Validating the model: Plot learning curve
 
-### Step 03 : Link ML model through Grasshopper
+### Step 03: Linking the ML Models with Rhino
 
-![Data flow](https://github.com/LearnCarbon/src/blob/main/examples/dataFlow%20diagram.png)
+This version of the LearnCarbon Rhino Plugin no longer requires **Hops through Flask**. The models can now be executed directly via Rhino's script editor.
 
-* Hops gets parameters from the 3D model designed in Rhino , and the users inputs.
-* Hops is passing these values to the ML model and calling the ML model itself using a flask server
-* After the prediction is calculated Hops returns the value to a Rhino .rhp plugin written in c# and WPF, which displays the result in LearnCarbon.
+- The Rhino plugin retrieves parameters from the 3D model designed in Rhino and user inputs.
+- The ML models process these inputs and return predictions directly into Rhino, displaying the results in the LearnCarbon interface.
 
-![Hops functionality](https://github.com/LearnCarbon/src/blob/main/examples/HopsBackend_cropped.png)
+---
 
-## Set-up
-You would need a working Rhino 7 license and an IDE like Visual Studio where you can run the app.py file in src.
+## Setup Instructions
+
+### Prerequisites
+
+You’ll need a **Rhino 8** license and Python for running the scripts within Rhino.
+
+### Step-by-Step Guide
+
+1. **Clone the Repositories:**
+   Clone the LearnCarbon Rhino Plugin and the Machine Learning backend repositories into the same directory:
+   ```bash
+   git clone https://github.com/LearnCarbon/Tool_LearnCarbonRhinoPlugin
+   git clone https://github.com/LearnCarbon/src
+
+2. **Install Required Libraries:** In Rhino’s run `ScriptEditor`, to run the run_ML.py script from the cloned src directory. This script will install all the required Python libraries.
+
+4. **Run the Backend:** Once the libraries are installed, the ML models are ready to be linked with the Rhino plugin. The models will process data sent from Rhino and return GWP and structural type predictions.
+
+5. **Build and Install the Rhino Plugin:** Follow the Rhino plugin build instructions in the [Tool_LearnCarbonRhinoPlugin repository](https://github.com/LearnCarbon/Tool_LearnCarbonRhinoPlugin).
+
