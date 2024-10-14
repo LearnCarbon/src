@@ -1,4 +1,4 @@
-[# LearnCarbon
+# LearnCarbon
 Empower the architects for  analysing the relationship between structure & embodied carbon in early design stages!
 
 Looking at all the new construction that is projected to take place between now and 2040, we see the critical role embodied carbon plays.
